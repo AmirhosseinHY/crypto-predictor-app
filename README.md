@@ -49,6 +49,8 @@ This app is a crypto recommendation system designed to assist users by identifyi
   <img src="screenshots/suggestion.png" width="200"/>
   <img src="screenshots/trade.png" width="200"/>
   <img src="screenshots/membership.png" width="200"/>
+  <img src="screenshots/payment.png" width="200"/>
+  <img src="screenshots/membershiip.png" width="200"/>
 </div>
 
 ---
